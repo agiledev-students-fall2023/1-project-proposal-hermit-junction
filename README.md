@@ -20,11 +20,4 @@ It will also have a option to display the current note (pitch), the apperances o
 
 Support for different language would be a challenge, and for songs that were changed in live, synchronizing the timestamp may require scraping from video website like Youtube. Finding the pitch and make a general report for each song would also take some work. New features can be added if finished early.
 
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
 
